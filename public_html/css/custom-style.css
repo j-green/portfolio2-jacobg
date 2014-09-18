@@ -1,0 +1,16 @@
+body{
+    background-color: lightsteelblue;
+}
+
+div{
+    border-style:  solid;
+    border-width: 10px
+}
+
+.container {
+    border-color: grey;
+}
+
+.row {
+    border-color: grey;
+}
