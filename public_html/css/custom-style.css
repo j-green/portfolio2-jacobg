@@ -1,24 +1,16 @@
-body{
-    background-color: lightsteelblue;
-}
-
-div{
+ div{
     border-style:  solid;
-    border-width: 10px;
-        padding: 30px
-}
-
-.container {
-    border-color: whitesmoke;
-}
-
-.row {
-    border-color: grey;
-}
-.col-xs-10 {
-    border-color: blue
-}
-
-.col-xs-2 {
-    border-color: green
-}
+    border-width: 5px;
+    }
+   .container{
+       border-color: blue;
+   }
+   .row{
+       border-color: red;
+   }
+   body{
+       background-color: lightsteelblue;
+   }
+   technology{
+       background-color: lightsteelblue;
+   }
